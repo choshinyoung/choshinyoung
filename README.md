@@ -1,16 +1,13 @@
-### Hi there 👋
+### 안녕하세요 👋
+   
+   
+## [신영테크](http://shinyoung.tech)
 
-<!--
-**choshinyoung/choshinyoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 저는 지금 여러가지 게임을 만들고있어요
+- 🌱 저는 지금 파이썬을 배우고있어요
+- 👯 헥사캣과 [팀 세미콜론](https://github.com/SemiColonGit/) 소속이에요
+- 🤔 도움은 필요없어요
+- 💬 무언가 물어보세요..
+- 📫 이메일: choshinyoung1227@gmail.com
+- 😄 고야이ㅣㅣㅣ
+- ⚡ 재미있는 사실: 
