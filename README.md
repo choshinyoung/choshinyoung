@@ -13,4 +13,4 @@
 
 [![my's github stats](https://github-readme-stats.vercel.app/api?username=choshinyoung)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choshinyoung&layout=compact&hide=javascript,css,html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choshinyoung&layout=compact&hide=javascript)](https://github.com/anuraghazra/github-readme-stats)
