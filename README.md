@@ -9,4 +9,8 @@
 - 💬 무언가 물어보세요..
 - 📫 이메일: choshinyoung1227@gmail.com
 - 😄 고야이ㅣㅣㅣ
-- ⚡ 재미있는 사실: 
+- ⚡ 재미있는 사실: 허러러러러러러러러
+
+[![my's github stats](https://github-readme-stats.vercel.app/api?username=choshinyoung&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choshinyoung&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
