@@ -9,7 +9,7 @@
 - 💬 무언가 물어보세요..
 - 📫 이메일: choshinyoung1227@gmail.com
 - 😄 고야이ㅣㅣㅣ
-- ⚡ 재미있는 사실: 허러러러러러러러러
+- ⚡ 재미있는 사실: 프로필 사진은 [와사비님](https://scratch.mit.edu/users/cuore99/)이 만들어주셨답니다!
 
 [![my's github stats](https://github-readme-stats.vercel.app/api?username=choshinyoung)](https://github.com/anuraghazra/github-readme-stats)
 
