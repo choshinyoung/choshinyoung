@@ -2,7 +2,7 @@
    
    
 
-## 저의 작품들
+## 저의 작품들을 구경해보세요!
 - [라이트개구려](http://frog.shinyoung.tech)
 - [올리브토스트 디스코드 봇](https://bit.ly/OliveToast)
 - [Game16 디버거](https://bit.ly/Game_16)
