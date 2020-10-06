@@ -10,6 +10,6 @@
 
 [![my's github stats](https://github-readme-stats.vercel.app/api?username=choshinyoung)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choshinyoung&layout=compact&hide=javascript)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choshinyoung&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 - 프로필 사진은 [와와님](https://scratch.mit.edu/users/cuore99/)이 만들어주셨답니다!
