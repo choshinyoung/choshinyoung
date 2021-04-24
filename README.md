@@ -1,6 +1,6 @@
 # Hello 👋
    
-## Skills
+## My Skills
 ![Csharp](https://img.shields.io/badge/-Csharp-8b61c9?style=for-the-badge&logo=c-sharp&logoColor=fff)
 ![Python](https://img.shields.io/badge/-Python-306998?style=for-the-badge&logo=python&logoColor=fff)
 ![Javascript](https://img.shields.io/badge/-JavaScript-cfba30?style=for-the-badge&logo=Javascript&logoColor=fff)
