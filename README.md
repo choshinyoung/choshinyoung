@@ -2,6 +2,7 @@
    
 ## Skills
 ![Csharp](https://img.shields.io/badge/-Csharp-8b61c9?style=for-the-badge&logo=c-sharp&logoColor=fff)
+![Unity](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=fff)
 
 ## My Projects
 - [OliveToast](https://github.com/choshinyoung/OliveToast) : A Discord utility bot
