@@ -20,3 +20,7 @@
 ![my's github stats](https://github-readme-stats.vercel.app/api?username=choshinyoung&theme=dark)
    
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choshinyoung&layout=compact&theme=dark)
+
+## Contacts
+- [Email](mailto:choshinyoung1227@gmail.com)
+- [Discord](https://discord.com/users/396163884005851137)
