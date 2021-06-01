@@ -21,7 +21,7 @@
 - [Email](mailto:choshinyoung1227@gmail.com)
 - [Discord](https://discord.com/users/396163884005851137)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=choshinyoung)](https://solved.ac/choshinyoung/)\
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=choshinyoung)](https://solved.ac/choshinyoung/)
    
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choshinyoung&layout=compact&theme=dark)
 
