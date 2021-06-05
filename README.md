@@ -1,5 +1,7 @@
 # Hello 👋
 
+I'm just a student developer in South Korea
+
 
 ## My Skills
 ![Csharp](https://img.shields.io/badge/-Csharp-8b61c9?style=for-the-badge&logo=c-sharp&logoColor=fff)
