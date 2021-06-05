@@ -1,6 +1,6 @@
 # Hello 👋
 
-I'm just a student developer in South Korea
+I'm just a student developer
 
 
 ## My Skills
