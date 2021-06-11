@@ -15,6 +15,7 @@ I'm just a student developer in South Korea
 ![Blender](https://img.shields.io/badge/-Blender-EA7600?style=for-the-badge&logo=blender&logoColor=fff)
 ![Flutter](https://img.shields.io/badge/-Flutter-13b9fd?style=for-the-badge&logo=flutter&logoColor=fff)
 
+
 ## My Projects
 - [OliveToast](https://github.com/choshinyoung/OliveToast) : A Discord utility bot
 - [Debugger](https://bit.ly/Game_16) : A mobile game
@@ -27,6 +28,8 @@ I'm just a student developer in South Korea
 - [Email](mailto:choshinyoung1227@gmail.com)
 - [Discord](https://discord.com/users/396163884005851137)
 
+
+## Stats
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=choshinyoung)](https://solved.ac/choshinyoung/)
    
