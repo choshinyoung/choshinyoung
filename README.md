@@ -8,6 +8,7 @@ I'm just a student developer in South Korea
 ![Python](https://img.shields.io/badge/-Python-306998?style=for-the-badge&logo=python&logoColor=fff)
 ![Javascript](https://img.shields.io/badge/-JavaScript-cfba30?style=for-the-badge&logo=Javascript&logoColor=fff)
 ![C++](https://img.shields.io/badge/-C++-4e8bcf?style=for-the-badge&logo=c&logoColor=fff)
+![Dart](https://img.shields.io/badge/-Dart-2cb7f6?style=for-the-badge&logo=dart&logoColor=fff)
    
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=fff)
 ![Blender](https://img.shields.io/badge/-Blender-EA7600?style=for-the-badge&logo=blender&logoColor=fff)
