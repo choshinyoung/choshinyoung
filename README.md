@@ -17,7 +17,6 @@ I'm just a student developer in South Korea
 
 ## My Projects
 - [OliveToast](https://github.com/choshinyoung/OliveToast) : A Discord utility bot
-- [Debugger](https://bit.ly/Game_16) : A mobile game
 - [Watermelon](https://watermelon.shinyoung.tech/) : A web game
 - [StrawberryDonut](https://sbdonut.dev/) : A Discord story bot
 
