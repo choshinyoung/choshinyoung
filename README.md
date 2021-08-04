@@ -17,7 +17,7 @@ I'm just a student developer
 
 ## My Projects
 - [OliveToast](https://github.com/choshinyoung/OliveToast) : A Discord utility bot
-- [Watermelon](https://watermelon.shinyoung.tech/) : A web game
+- [Watermelon](https://watermelon.shinyou.ng/) : A web game
 - [StrawberryDonut](https://sbdonut.dev/) : A Discord story bot
 
 
