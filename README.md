@@ -1,6 +1,6 @@
 # Hello 👋
 
-I'm just a student developer
+I'm a student developer
 
 
 ## My Skills
@@ -8,17 +8,18 @@ I'm just a student developer
 ![Python](https://img.shields.io/badge/-Python-306998?style=for-the-badge&logo=python&logoColor=fff)
 ![C++](https://img.shields.io/badge/-C++-4e8bcf?style=for-the-badge&logo=c&logoColor=fff)
 ![Javascript](https://img.shields.io/badge/-JavaScript-cfba30?style=for-the-badge&logo=Javascript&logoColor=fff)
+![Typescript](https://img.shields.io/badge/-TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=fff)
 ![Dart](https://img.shields.io/badge/-Dart-2cb7f6?style=for-the-badge&logo=dart&logoColor=fff)
    
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=fff)
-![Flutter](https://img.shields.io/badge/-Flutter-13b9fd?style=for-the-badge&logo=flutter&logoColor=fff)
+![React](https://img.shields.io/badge/-React-13b9fd?style=for-the-badge&logo=react&logoColor=fff)
+![Flutter](https://img.shields.io/badge/-Flutter-0175c2?style=for-the-badge&logo=flutter&logoColor=fff)
 ![Blender](https://img.shields.io/badge/-Blender-EA7600?style=for-the-badge&logo=blender&logoColor=fff)
 
 
 ## My Projects
 - [OliveToast](https://github.com/choshinyoung/OliveToast) : A Discord utility bot
 - [Watermelon](https://watermelon.shinyou.ng/) : A web game
-- [StrawberryDonut](https://sbdonut.dev/) : A Discord story bot
 
 
 ## Contacts
