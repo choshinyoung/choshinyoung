@@ -1,4 +1,4 @@
-# Hello 👋
+# Hello there 👋
 
 I'm a student developer
 
