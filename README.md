@@ -17,11 +17,6 @@ I'm a student developer
 ![Blender](https://img.shields.io/badge/-Blender-EA7600?style=for-the-badge&logo=blender&logoColor=fff)
 
 
-## My Projects
-- [OliveToast](https://github.com/choshinyoung/OliveToast) : A Discord utility bot
-- [Watermelon](https://watermelon.shinyou.ng/) : A web game
-
-
 ## Contacts
 - [Email](mailto:choshinyoung1227@gmail.com)
 - [Discord](https://discord.com/users/396163884005851137)
