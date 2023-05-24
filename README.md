@@ -3,7 +3,7 @@
 I'm a student developer
 
 
-## My Skills
+## Skills
 ![Csharp](https://img.shields.io/badge/-Csharp-8b61c9?style=for-the-badge&logo=c-sharp&logoColor=fff)
 ![Python](https://img.shields.io/badge/-Python-306998?style=for-the-badge&logo=python&logoColor=fff)
 ![C++](https://img.shields.io/badge/-C++-4e8bcf?style=for-the-badge&logo=c&logoColor=fff)
