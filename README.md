@@ -19,7 +19,7 @@ I'm a student developer
 
 ## Contacts
 - [Email](mailto:choshinyoung1227@gmail.com): `choshinyoung1227@gmail.com`
-- [Discord](discord://-/users/396163884005851137): `choshinyoung#1795`
+- [Discord](discord://-/users/396163884005851137): `choshinyoung`
 
 
 ## Stats
