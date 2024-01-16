@@ -2,7 +2,7 @@
 
 I'm a student developer
 
-
+<!--
 ## Skills
 ![Csharp](https://img.shields.io/badge/-Csharp-8b61c9?style=for-the-badge&logo=c-sharp&logoColor=fff)
 ![Python](https://img.shields.io/badge/-Python-306998?style=for-the-badge&logo=python&logoColor=fff)
@@ -16,7 +16,7 @@ I'm a student developer
 ![Flutter](https://img.shields.io/badge/-Flutter-0175c2?style=for-the-badge&logo=flutter&logoColor=fff)
 ![Blender](https://img.shields.io/badge/-Blender-EA7600?style=for-the-badge&logo=blender&logoColor=fff)
 
-
+-->
 ## Contacts
 - [Email](mailto:choshinyoung1227@gmail.com): `choshinyoung1227@gmail.com`
 - [Discord](discord://-/users/396163884005851137): `choshinyoung`
