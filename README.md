@@ -1,6 +1,7 @@
 # Hello there 👋
 I'm a student developer
-## Contacts
+## Connects
+- [Github](https://github.com/choshinyoung): `choshinyoung`
 - [Email](mailto:choshinyoung1227@gmail.com): `choshinyoung1227@gmail.com`
 - [Discord](discord://-/users/396163884005851137): `choshinyoung`
 ## Stats
